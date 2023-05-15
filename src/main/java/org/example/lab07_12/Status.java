@@ -1,4 +1,4 @@
-package org.example.lab07_11;
+package org.example.lab07_12;
 
 public enum Status {
     PLANNED("planowane"),

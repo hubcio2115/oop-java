@@ -1,4 +1,4 @@
-package org.example.lab07_11;
+package org.example.lab07_12;
 
 import java.time.DateTimeException;
 import java.time.LocalTime;
@@ -6,7 +6,7 @@ import java.time.format.DateTimeParseException;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class lab07_11 {
+public class lab07_12 {
     public static void main(String[] args) {
         System.out.println("Program służy do zarządzania kalendarzem spotkań dla jednego tygodnia");
         Scanner scanner = new Scanner(System.in);
